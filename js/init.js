@@ -602,7 +602,7 @@ function photolane_fn_accordion(){
 		showIcon: false, //boolean	
 		animation: true, //boolean
 		closeAble: true, //boolean
-        slideSpeed: 500 //integer, miliseconds
+        slideSpeed: 5000 //integer, miliseconds
 	});
 	
 }
