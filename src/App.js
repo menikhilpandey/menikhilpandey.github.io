@@ -1,28 +1,36 @@
 import React from 'react';
 import './App.css';
+import ProfilePhoto from './components/ProfilePhoto';
+import MenuOptions from './components/MenuOptions';
 
 class App extends React.Component {
-  renderDesk() {
+  constructor(props) {
+    super(props)
+    this.state = {
+      isNavbar: false
+    }
+  }
+  renderProfilePhoto() {
     return (
-      <div>
-        Hello! I am a Desk!
-      </div>
+      <ProfilePhoto
+        isNavbar={this.state.isNavbar}
+      />
     )
   }
 
-  renderDrawer() {
+  renderMenuOptions() {
     return (
-      <div>
-        Hello! I am a Drawer!
-      </div>
+      <MenuOptions
+        isNavbar={this.state.isNavbar}
+      />
     )
   }
 
   render() {
     return (
       <div className="App">
-        {this.renderDesk()}
-        {this.renderDrawer()}
+        {this.renderProfilePhoto()}
+        {this.renderMenuOptions()}
       </div>
     )
   }
