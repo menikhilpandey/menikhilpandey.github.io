@@ -1,0 +1,15 @@
+.DescriptionContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4%;
+}
+
+.NameContainer{
+    font-size: 36px;
+}
+
+.DesignationContainer{
+    font-size: 24px;
+}
