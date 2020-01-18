@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import ProfilePhoto from './components/ProfilePhoto';
 import MenuOptions from './components/MenuOptions';
+import Description from './components/Description';
 
 class App extends React.Component {
   constructor(props) {
@@ -18,6 +19,12 @@ class App extends React.Component {
     )
   }
 
+  renderDescription() {
+    return (
+      <Description/>
+    )
+  }
+
   renderMenuOptions() {
     return (
       <MenuOptions
@@ -30,6 +37,7 @@ class App extends React.Component {
     return (
       <div className="App">
         {this.renderProfilePhoto()}
+        {this.renderDescription()}
         {this.renderMenuOptions()}
       </div>
     )

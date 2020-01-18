@@ -1,11 +1,9 @@
 .ProfilePhotoContainer {
     display: flex;
-    justify-content: center;
-    align-items: center;
     width: 20%;
     height: 20%;
     margin-top: 10%;
-    margin-bottom: 5%;
+    margin-bottom: 1%;
     border-radius: 50%;
     border: 2px solid #384458;
     box-sizing: border-box;
