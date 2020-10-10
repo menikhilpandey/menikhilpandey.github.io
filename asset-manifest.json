@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/menikhilpandey.github.io/static/css/main.c29bd443.chunk.css",
+    "main.css": "/menikhilpandey.github.io/static/css/main.c3705b8f.chunk.css",
     "main.js": "/menikhilpandey.github.io/static/js/main.5b5b9667.chunk.js",
     "main.js.map": "/menikhilpandey.github.io/static/js/main.5b5b9667.chunk.js.map",
     "runtime-main.js": "/menikhilpandey.github.io/static/js/runtime-main.fba991ba.js",
@@ -8,16 +8,16 @@
     "static/js/2.f4953281.chunk.js": "/menikhilpandey.github.io/static/js/2.f4953281.chunk.js",
     "static/js/2.f4953281.chunk.js.map": "/menikhilpandey.github.io/static/js/2.f4953281.chunk.js.map",
     "index.html": "/menikhilpandey.github.io/index.html",
-    "precache-manifest.03dd4033e860e63b669c381e11286025.js": "/menikhilpandey.github.io/precache-manifest.03dd4033e860e63b669c381e11286025.js",
+    "precache-manifest.b98b7361221f1548f731df356a2debf0.js": "/menikhilpandey.github.io/precache-manifest.b98b7361221f1548f731df356a2debf0.js",
     "service-worker.js": "/menikhilpandey.github.io/service-worker.js",
-    "static/css/main.c29bd443.chunk.css.map": "/menikhilpandey.github.io/static/css/main.c29bd443.chunk.css.map",
+    "static/css/main.c3705b8f.chunk.css.map": "/menikhilpandey.github.io/static/css/main.c3705b8f.chunk.css.map",
     "static/js/2.f4953281.chunk.js.LICENSE": "/menikhilpandey.github.io/static/js/2.f4953281.chunk.js.LICENSE",
     "static/media/profile.jpeg": "/menikhilpandey.github.io/static/media/profile.fd3dc8be.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.fba991ba.js",
     "static/js/2.f4953281.chunk.js",
-    "static/css/main.c29bd443.chunk.css",
+    "static/css/main.c3705b8f.chunk.css",
     "static/js/main.5b5b9667.chunk.js"
   ]
 }
