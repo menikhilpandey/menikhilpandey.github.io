@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 
 const images = {
-    profilePic: require('./assets/profile.jpg')
+    profilePic: require('./assets/profile.jpeg')
 }
 
 class ProfilePhoto extends React.PureComponent {
