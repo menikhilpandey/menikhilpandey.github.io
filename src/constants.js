@@ -3,5 +3,6 @@ export const LINKS = {
     LINKEDIN: "https://www.linkedin.com/in/menikhilpandey/",
     GITHUB: "https://github.com/menikhilpandey",
 	MEDIUM: "https://medium.com/@menikhilpandey",
-	TWITTER: "https://twitter.com/menikhilpandey"
+    TWITTER: "https://twitter.com/menikhilpandey",
+    CODECHEF: "https://codechef.com/users/menikhilpandey",
 }

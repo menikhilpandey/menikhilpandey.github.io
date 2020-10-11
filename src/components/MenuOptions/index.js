@@ -56,6 +56,19 @@ class MenuOptions extends React.PureComponent {
         )
     }
 
+    renderCodeChefBtn() {
+        return(
+            <a 
+                className="MenuBtnContainer"
+                href={LINKS.CODECHEF}
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                CodeChef
+            </a>
+        )
+    }
+
     renderTwitterBtn() {
         return(
             <a 
@@ -75,6 +88,7 @@ class MenuOptions extends React.PureComponent {
                 {this.renderResumeBtn()}
                 {this.renderLinkedInBtn()}
                 {this.renderGithubBtn()}
+                {this.renderCodeChefBtn()}
                 {this.renderMediumBtn()}
                 {this.renderTwitterBtn()}
             </div>
