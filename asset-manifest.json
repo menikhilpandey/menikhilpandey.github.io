@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/menikhilpandey.github.io/static/css/main.c3705b8f.chunk.css",
-    "main.js": "/menikhilpandey.github.io/static/js/main.5b5b9667.chunk.js",
-    "main.js.map": "/menikhilpandey.github.io/static/js/main.5b5b9667.chunk.js.map",
+    "main.js": "/menikhilpandey.github.io/static/js/main.85f2467c.chunk.js",
+    "main.js.map": "/menikhilpandey.github.io/static/js/main.85f2467c.chunk.js.map",
     "runtime-main.js": "/menikhilpandey.github.io/static/js/runtime-main.fba991ba.js",
     "runtime-main.js.map": "/menikhilpandey.github.io/static/js/runtime-main.fba991ba.js.map",
     "static/js/2.f4953281.chunk.js": "/menikhilpandey.github.io/static/js/2.f4953281.chunk.js",
     "static/js/2.f4953281.chunk.js.map": "/menikhilpandey.github.io/static/js/2.f4953281.chunk.js.map",
     "index.html": "/menikhilpandey.github.io/index.html",
-    "precache-manifest.b98b7361221f1548f731df356a2debf0.js": "/menikhilpandey.github.io/precache-manifest.b98b7361221f1548f731df356a2debf0.js",
+    "precache-manifest.809aa60da0dca2f77802f652a273ca80.js": "/menikhilpandey.github.io/precache-manifest.809aa60da0dca2f77802f652a273ca80.js",
     "service-worker.js": "/menikhilpandey.github.io/service-worker.js",
     "static/css/main.c3705b8f.chunk.css.map": "/menikhilpandey.github.io/static/css/main.c3705b8f.chunk.css.map",
     "static/js/2.f4953281.chunk.js.LICENSE": "/menikhilpandey.github.io/static/js/2.f4953281.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fba991ba.js",
     "static/js/2.f4953281.chunk.js",
     "static/css/main.c3705b8f.chunk.css",
-    "static/js/main.5b5b9667.chunk.js"
+    "static/js/main.85f2467c.chunk.js"
   ]
 }
