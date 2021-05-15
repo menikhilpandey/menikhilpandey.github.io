@@ -1,0 +1,37 @@
+.MenuContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+}
+
+.MenuBtnContainer,
+.MenuBtnContainer:link,
+.MenuBtnContainer:visited,
+.MenuBtnContainer:active {
+    color: #ffffff80;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: #bb86fc80;
+    text-decoration-style: solid;
+    transition: all 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.MenuBtnContainer:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #bb86fc;
+}
+
+@media only screen and (max-width: 600px) {
+    .MenuBtnContainer,
+    .MenuBtnContainer:link,
+    .MenuBtnContainer:visited,
+    .MenuBtnContainer:active {
+        color: #ffffff;
+    }
+    .MenuContainer {
+        flex-direction: column;
+    }
+}
