@@ -84,7 +84,7 @@ class MenuOptions extends React.PureComponent {
     render() {
         return (
             <div className="MenuContainer">
-                {this.renderResumeBtn()}
+                {/* {this.renderResumeBtn()} */}
                 {this.renderLinkedInBtn()}
                 {this.renderGithubBtn()}
                 {this.renderCodeChefBtn()}
