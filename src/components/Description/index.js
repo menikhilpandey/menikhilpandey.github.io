@@ -7,7 +7,7 @@ class Description extends React.PureComponent {
             <div className={'DescriptionContainer'}>
                 <div className={'NameContainer'}>Nikhil Pandey</div>
                 <div className={'DesignationContainer'}>
-                    SDE @ Amazon Berlin
+                    Software Engineer II @ Booking.com
                 </div>
             </div>
         )
